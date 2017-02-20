@@ -1,4 +1,6 @@
 # FJU Class Crawler
+![ScreenShot](ScreenShot.png)
+
 輔仁大學開課資料查詢系統爬蟲
 
 ## Installation
