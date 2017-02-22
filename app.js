@@ -1,6 +1,5 @@
 var request = require('request');
 var cheerio = require('cheerio');
-var colors = require('colors');
 var config = require('config');
 var emoji = require('node-emoji');
 var fs = require('fs');
